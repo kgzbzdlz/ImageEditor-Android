@@ -7,9 +7,6 @@
 
 ## Version History
 
-### NextVersion
-mosaic 马赛克打码功能（阻碍人类进步的马赛克，还在研究打码算法中...）
-
 ### v_3.3:
 - [x] redo and undo
 <br />
